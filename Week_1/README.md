@@ -271,19 +271,30 @@ The basic idea is to combine multiple models instead of relying on a single mode
 
 # 🎥 Learning Resources
 
-## 1️⃣ What is Machine Learning?
+## 📚 GeeksforGeeks Resources
+
+* [Introduction to Machine Learning – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/ml/)
+* [Types of Machine Learning – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/types-of-machine-learning/types/)
+* [Machine Learning Lifecycle – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/machine-learning-lifecycle/)
+* [ML Bias-Variance Tradeoff – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/ml-bias-variance-trade-off/)
+* [Exploratory Data Analysis (EDA) – GeeksforGeeks](https://www.geeksforgeeks.org/data-analysis/what-is-exploratory-data-analysis/)
+
+---
+
+## 🎬 YouTube Resources
+
+### 1️⃣ What is Machine Learning?
 
 [What is Machine Learning? | 100 Days of Machine Learning](https://youtu.be/ZftI2fEz0Fw?si=ttf16ZmjzDkiQ48G)
 
-## 2️⃣ Types of Machine Learning
+### 2️⃣ Types of Machine Learning
 
 [Types of Machine Learning for Beginners](https://youtu.be/81ymPYEtFOw?si=Qz-UyWrdbqoFrb_S)
 
-## 3️⃣ Machine Learning Development Life Cycle
+### 3️⃣ Machine Learning Development Life Cycle
 
 [Machine Learning Development Life Cycle | MLDLC](https://youtu.be/iDbhQGz_rEo?si=etEs1Llw7PBP3eiZ)
 
----
 
 # 📝 Week 1 Summary
 
