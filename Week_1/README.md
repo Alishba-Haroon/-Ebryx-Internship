@@ -74,8 +74,7 @@ Created visualizations to understand:
 
 | File                         | Description                                                       |
 | ---------------------------- | ----------------------------------------------------------------- |
-| `WEEK_1__Ml_and_types_.docx` | Machine Learning fundamentals, types, workflow, and core concepts |
-| `pandas_series.ipynb`        | Hands-on practice with Pandas Series                              |
+| `WEEK 1(Ml and types).docx` | Machine Learning fundamentals, types, workflow, and core concepts |                           |
 | `Code/`                      | Python practice and ML implementations                            |
 
 ---
